@@ -2,8 +2,8 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = 'YOUR BOT TOKEN APNA BOT TOKEN YAHA DALE'
-ADMIN_USER_ID = 1549748318
+TELEGRAM_BOT_TOKEN = '7718671509:AAEqrwaeTvjtrwn1NhBG_Oo-tj8PPYzSHzI'
+ADMIN_USER_ID = 1984747196
 USERS_FILE = 'users.txt'
 attack_in_progress = False
 
